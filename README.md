@@ -1,4 +1,4 @@
 # project-1
 First Project
 <br> 
-And my name is Muhamma Sunnan Riaz
+And my name is Muhammad Sunnan Riaz
