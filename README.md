@@ -1,4 +1,4 @@
 # project-1
-First Project
+Todo App
 <br> 
 And my name is Muhammad Sunnan Riaz
