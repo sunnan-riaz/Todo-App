@@ -2,7 +2,7 @@
     --background: #101114;
     --primary-color: #1c1D20;
     --secondry-color: #4a4d57;
-    --accent-color: #00ffc4;
+    --accent-color: #04ff00;
     --text-color: #f9F9F9;
 }
 *{
@@ -46,7 +46,7 @@ h1{
     padding: 12px 20px;
     width: 100%;
     background: none;
-    border: 2px solid var(--secondry-color);
+    border: 2px solid var(--accent-color);
     border-radius: 1000px;
     font: inherit;
     color: var(--text-color);
@@ -65,7 +65,6 @@ form{
     top: 0%;
     right:0%;
     
-
     background-color: var(--accent-color);
     height: 100%;
     padding: 0px 30px;
@@ -152,6 +151,6 @@ input[type="checkbox"]{
     h1{
         margin-top: 50px;
         font-size: 15vw;
-        
+
     }
 } 
